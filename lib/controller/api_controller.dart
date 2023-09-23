@@ -1,12 +1,12 @@
 import 'dart:convert';
 import 'dart:developer' as developer;
+import 'dart:math';
 
 import 'package:http/http.dart' as http;
-import 'package:wallpaper_guru/model/category_model.dart';
-import 'package:wallpaper_guru/model/photosModel.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 
-import 'dart:math';
+import '../model/category_model.dart';
+import '../model/photos_model.dart';
 
 class ApiOperations {
   static List<PhotosModel> trendingWallpapers = [];
