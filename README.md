@@ -152,7 +152,3 @@ We're excited about the future of Wallpaper Guru and hope these planned features
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README file further to match your project's specific requirements and design. Encourage potential contributors to participate in the development of Wallpaper Guru and make it a thriving open-source project. Happy coding!
