@@ -8,7 +8,7 @@ import 'package:flutter_dotenv/flutter_dotenv.dart';
 import '../model/category_model.dart';
 import '../model/photos_model.dart';
 
-class ApiOperations {
+class ApiController {
   static List<PhotosModel> trendingWallpapers = [];
   static List<PhotosModel> searchWallpapersList = [];
   static List<CategoryModel> cateogryModelList = [];
