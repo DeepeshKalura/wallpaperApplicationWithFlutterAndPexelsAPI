@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 
-import './views/screens/home.dart';
+import 'views/screens/home_screen.dart';
 
 Future<void> main() async {
   await dotenv.load(fileName: "assets/.env");
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Wallpaper Guru',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.amber,
       ),
       home: const HomeScreen(),
     );
