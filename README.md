@@ -151,4 +151,4 @@ We're excited about the future of Wallpaper Guru and hope these planned features
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project has no license.
