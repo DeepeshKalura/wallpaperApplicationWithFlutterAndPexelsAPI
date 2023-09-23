@@ -19,7 +19,7 @@ class HomeScreen extends StatefulWidget {
 
 class _HomeScreenState extends State<HomeScreen> {
   late List<PhotosModel> trendingWallList;
-  late List<CategoryModel> catModList;
+  late List<CategoryModel> catModList = [];
   bool isLoading = true;
 
   getCatDetails() async {
