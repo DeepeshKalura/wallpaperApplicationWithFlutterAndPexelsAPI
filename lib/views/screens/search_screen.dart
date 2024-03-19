@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import '../../controller/api_controller.dart';
 import '../../model/photos_model.dart';
 import '../widgets/custom_app_bar.dart';
-import '../widgets/search_bar.dart';
 import './full_screen.dart';
 
 class SearchScreen extends StatefulWidget {
@@ -53,7 +52,7 @@ class _SearchScreenState extends State<SearchScreen> {
                 children: [
                   Container(
                     padding: const EdgeInsets.symmetric(horizontal: 10),
-                    child: SearchBar(),
+                    child: const SearchBar(),
                   ),
                   const SizedBox(
                     height: 10,

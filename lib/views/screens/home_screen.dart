@@ -7,7 +7,6 @@ import '../../model/category_model.dart';
 import '../../model/photos_model.dart';
 import '../widgets/cat_block.dart';
 import '../widgets/custom_app_bar.dart';
-import '../widgets/search_bar.dart';
 import './full_screen.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -68,7 +67,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 children: [
                   Container(
                     padding: const EdgeInsets.symmetric(horizontal: 10),
-                    child: SearchBar(),
+                    child: const SearchBar(),
                   ),
                   Container(
                     margin: const EdgeInsets.symmetric(vertical: 20),
