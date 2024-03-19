@@ -6,9 +6,12 @@
 
 **Wallpaper Guru** is a Flutter application that allows users to explore and discover high-quality wallpapers from various categories. It leverages the Pexels API to fetch stunning images and provides a user-friendly interface for wallpaper enthusiasts. This README serves as a guide for users and contributors to the project.
 
-![HomeScreen](./assets/present/home_screen.png)
-![Full Screen](./assets/present/full_screen.png)
-
+<table>
+<tr>
+<td> <img src="./assets/present/home_screen.png" alt="Home Screen" width="200px"/> </td>
+<td> <img src="./assets/present/full_screen.png" alt="Full Screen" width="200px"/> </td>
+</tr>
+</table>
 ## Table of Contents
 
 - [Getting Started](#getting-started)
