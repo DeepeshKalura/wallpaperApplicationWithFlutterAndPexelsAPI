@@ -9,7 +9,7 @@
 <table>
 <tr>
 <td> <img src="./assets/present/home_screen.png" alt="Home Screen" height="200px"/> </td>
-<td> <img src="./assets/present/full_screen.png" alt="Full Screen" weight="200px"/> </td>
+<td> <img src="./assets/present/full_screen.png" alt="Full Screen" height="200px"/> </td>
 </tr>
 </table>
 ## Table of Contents
