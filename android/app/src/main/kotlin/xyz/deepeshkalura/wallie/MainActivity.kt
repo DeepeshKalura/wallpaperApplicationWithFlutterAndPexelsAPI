@@ -1,4 +1,4 @@
-package com.example.wallpaper_guru
+package xyz.deepeshkalura.wallie
 
 import io.flutter.embedding.android.FlutterActivity
 
